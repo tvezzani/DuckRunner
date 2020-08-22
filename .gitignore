@@ -1,0 +1,8 @@
+*.meta
+.sw*
+.*.sw*
+Text*
+.DS*
+Scenes/
+*.controller
+*.anim
