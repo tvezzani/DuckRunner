@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Advertisements;
@@ -6,9 +6,9 @@ using UnityEngine.Advertisements;
 public class AdCountDown : MonoBehaviour
 {
 #if UNITY_IOS
-    private string gameId = "3681364";
+    private string gameId = "69420";
 #elif UNITY_ANDROID
-    private string gameId = "3681365";
+    private string gameId = "69420";
 #endif
 
     // Start is called before the first frame update
